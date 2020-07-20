@@ -1,0 +1,8 @@
+
+.ipynb_checkpoints/
+
+
+*.txt
+eda.py
+eda_analysis.ipynb
+fuel_ferc1.csv
