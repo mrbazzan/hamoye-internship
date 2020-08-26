@@ -3,7 +3,7 @@
 
 stageA/.ipynb_checkpoints/
 stageB/.ipynb_checkpoints/
-
+stageC/.ipynb_checkpoints/
 
 stageB/energy1.ipynb
 stageB/energy2.ipynb
@@ -17,3 +17,7 @@ stageA/eda.py
 stageA/eda_analysis.ipynb
 
 stageB/ENB2012_data.xlsx
+
+stageC/eco_baz.ipynb
+stageC/eco_foot.ipynb
+stageC/NFA 2019 public_data.csv
